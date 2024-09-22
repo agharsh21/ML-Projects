@@ -62,8 +62,8 @@ By focusing on the above points’ X education can increase potential buyers to 
 
 ### 7. Recommendation:
 To boost the potential lead conversion rate, X-Education should focus on the key features responsible for a higher conversion rate:
-Lead Source_Welingak Website: Leads from the `Welingak Website` show a higher conversion rate, so the company should prioritize this website to attract more potential leads.
-Lead Origin_Lead Add Form: Leads who engage through the `Lead Add Form` have a higher conversion rate, so focusing on this method can bring in more high-potential leads.
-Current Occupation_Working Professional: Leads who are working professionals have a higher conversion rate. The company should target working professionals to increase the number of leads with a higher likelihood of conversion.
-Last Activity_SMS Sent: Leads whose last activity involved an SMS being sent are potentially high value leads for the company.
-Total Time Spent on Website: Leads who spend more time on the website are more likely to convert, making them potential high-value leads.
+- **Lead Source_Welingak Website:** Leads from the `Welingak Website` show a higher conversion rate, so the company should prioritize this website to attract more potential leads.
+- **Lead Origin_Lead Add Form:** Leads who engage through the `Lead Add Form` have a higher conversion rate, so focusing on this method can bring in more high-potential leads.
+- **Current Occupation_Working Professional:** Leads who are working professionals have a higher conversion rate. The company should target working professionals to increase the number of leads with a higher likelihood of conversion.
+- **Last Activity_SMS Sent:** Leads whose last activity involved an SMS being sent are potentially high value leads for the company.
+- **Total Time Spent on Website:** Leads who spend more time on the website are more likely to convert, making them potential high-value leads.
